@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Lab_02_01 {
     public static void main(String[] args)
     {
         System.out.println("Podaj wartość a: ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Lab_02_04 {
     public static void main(String[] args) {
         System.out.println("Czy pada deszcz? [tak(1) lub nie(0)]");
         boolean deszcz = inputBoolean();
