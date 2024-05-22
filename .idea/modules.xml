@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_05/Kalkulator.iml" filepath="$PROJECT_DIR$/Lab_05/Kalkulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_01/Lab_01.iml" filepath="$PROJECT_DIR$/Lab_01/Lab_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Lab_02/Lab_02.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab_06/Lab_06.iml" filepath="$PROJECT_DIR$/Lab_06/Lab_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab_06_02/Lab_06_02.iml" filepath="$PROJECT_DIR$/Lab_06_02/Lab_06_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Prace.iml" filepath="$PROJECT_DIR$/.idea/Prace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trening/Trening.iml" filepath="$PROJECT_DIR$/Trening/Trening.iml" />
     </modules>
   </component>
 </project>

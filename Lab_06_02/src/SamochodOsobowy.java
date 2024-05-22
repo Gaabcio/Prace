@@ -1,7 +1,8 @@
 public class SamochodOsobowy extends Samochod {
     private double waga, pojemnosc_silnika, ilosc_osob;
 
-    public SamochodOsobowy(String marka, String model, String nadwozie, String kolor, int rok_produkcji, int przebieg, double waga, double pojemnosc_silnika, double ilosc_osob) {
+    public SamochodOsobowy(String marka, String model, String nadwozie, String kolor, int rok_produkcji,
+                           int przebieg, double waga, double pojemnosc_silnika, double ilosc_osob) {
        super(marka, model, nadwozie, kolor, rok_produkcji, przebieg);
        this.waga = waga;
        this.pojemnosc_silnika = pojemnosc_silnika;
